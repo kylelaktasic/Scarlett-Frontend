@@ -10,8 +10,8 @@ Required:
 
 
 ```bash
-git clone https://github.com/kylelaktasic/scarlett.git
-cd wonderland-frontend
+git clone https://github.com/kylelaktasic/scarlett-frontend.git
+cd scarlett-frontend
 yarn install
 npm run start
 ```
