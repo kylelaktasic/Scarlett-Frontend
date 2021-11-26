@@ -1,5 +1,5 @@
 # [Scarlett Frontend](https://app.wonderland.money/)
-This is the front-end repo for scarlett. 
+This is the front-end repo for Scarlett. 
 
 ##  🔧 Setting up Local Development
 
